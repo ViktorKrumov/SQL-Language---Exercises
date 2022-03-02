@@ -1,0 +1,2 @@
+SELECT firstname , LastName FROM Employees
+WHERE DepartmentID != 4
